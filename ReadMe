@@ -1,0 +1,5 @@
+Write a Java program to find out whether the given String is Palindrome or not.
+
+A palindrome is a number, string or a sequence which will be the same even after you reverse the order. 
+For example, RACECAR, if spelled backward will be same as RACECAR.
+Another example, MADAM, if spelled backward will be same as MADAM.
